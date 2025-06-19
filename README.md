@@ -39,10 +39,10 @@ This task provided hands-on experience with performance tracking and alert autom
 
 This task highlighted the potential of hybrid and multi-cloud strategies in managing distributed cloud resources.
 
-# 🔐 Task 4: Cloud Security Implementation on AWS
 
-## ✅ Task Summary
+## 🔐 Task 4: Cloud Security Implementation on AWS
 
+### ✅ Task Summary
 - Created two **EC2 instances**: one tagged as **Production**, the other as **Development**.
 - Implemented a custom **IAM policy** to restrict user actions based on resource tags.
 - Denied permissions for actions like `StopInstance`, `CreateTags`, and `DeleteTags`.
